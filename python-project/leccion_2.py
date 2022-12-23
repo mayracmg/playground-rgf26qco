@@ -1,7 +1,7 @@
 # Tipo de datos String -> str
 receta_1 = "Galletas de chispas de chocolate"
 receta_2 = "Alfajores"
-receta_2 = "Galletas de chocolate"
+receta_3 = "Galletas de chocolate"
 
 #Ingredientes, tipo de datos Entero y Float -> int, float
 #Ingredientes para una receta Alfajores
