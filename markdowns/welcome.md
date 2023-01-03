@@ -7,3 +7,6 @@ Aca podras encontrar el contenido de las lecciones del curso basico de Python.
 
 # Lección 2
 @[Crear variables con distintos tipos de dato.]({"stubs": ["leccion_2.py"], "command": "python3 leccion_2.py"})
+
+# Lección 3
+@[Listas]({"stubs": ["leccion_3.py"], "command": "python3 leccion_3.py"})
